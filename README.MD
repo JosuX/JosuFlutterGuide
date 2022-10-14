@@ -23,4 +23,4 @@ https://www.youtube.com/watch?v=ZSWfgxrxN0M&ab_channel=HarsivoEdu
 5. Paste this command in the Powershell and Press Enter
 `code --list-extensions | % { "code --install-extension $_" }`
 
-##Now you're ready to code in Dart and Flutter!
+## Now you're ready to code in Dart and Flutter!
