@@ -11,7 +11,7 @@ The purpose of Dart programming is to create a frontend user interfaces for the 
 
 It supports most of the common concepts of programming languages like classes, interfaces, functions, unlike other programming languages. Dart language does not support arrays directly. It supports collection, which is used to replicate the data structure such as arrays, generics, and optional typing.
 
-### Setting Up Android Development, Flutter and VS Code
+### Setting Up Android Studio, Flutter and VS Code
 Watch this video and follow the steps to setup your workspace.
 https://www.youtube.com/watch?v=ZSWfgxrxN0M&ab_channel=HarsivoEdu
 
