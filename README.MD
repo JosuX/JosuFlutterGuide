@@ -27,6 +27,7 @@ Each function has a unique name which is used to call it inside the Dart program
 #### Function Structure
 <br>
 ##### Implicit Functions
+
 ```
 void doSomething(){
   //Do something here...
@@ -41,6 +42,7 @@ void main(){
   doAnotherThing(2,3);
 }
 ```
+
 Implicit functions are constructed by using the word `void` before a function name, and it's parameters can be added inside parenthesis and processes inside curly brackets. These functions can be called inside the `main` function in order to run those processes.
 <br>
 ##### Explicit Functions
