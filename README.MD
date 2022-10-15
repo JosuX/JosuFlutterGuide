@@ -25,7 +25,9 @@ Each function has a unique name which is used to call it inside the Dart program
 <br>
 
 #### Function Structure
+
 <br>
+
 ##### Implicit Functions
 
 ```
@@ -67,10 +69,11 @@ Lambda functions are just the same as normal function would run, the difference 
 <br><br>
 
 ### Object Oriented Programming
-### Classes, and Object
+
+#### Classes, and Object
 Dart classes are the blueprint of the object, or it can be called object constructors. A class can contain fields, functions, constructors, etc. It is a wrapper that binds/encapsulates the data and functions together; that can be accessed by creating an object. A class can refer to as user-define data type which defines characteristics by its all objects.
 <br>
-#### Class Structure
+##### Class Structure
 ```
 class Cat {
   String breed = "Persian";
@@ -96,9 +99,9 @@ void main() {
 ```
 To create an instance of a `Cat`, you define it by typing the class and then its class name. `Cat Neko = Cat(); ` creates the  instance of the class. With the instance created, you can call its functions by stating the name and its function. `Neko.meow()` and `Neko.jump()`.
 <br>
-#### Inheritance
+##### Inheritance
 Dart supports inheritance, which is used to create new classes from an existing class. The class that to be extended is called parent /superclass, and the newly created class is called child/subclass. Dart provides extends keyword to inherit the properties of parent class in child class. The syntax is given below.
-##### Examples
+###### Examples
 ```
 class ProChef extends ItalianChef {
   void cookFilletMignon() {
@@ -107,7 +110,9 @@ class ProChef extends ItalianChef {
 }
 ```
 <br>
+
 #### Polymorphism
+
 Polymorphism is an object-oriented programming concept where one thing has many forms. It can be two types - Runtime polymorphism and Compile time polymorphism. For example - A function has the same name but with a different behavior or class.
 
 ## Activities
