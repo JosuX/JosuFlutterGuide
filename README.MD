@@ -59,7 +59,7 @@ int Addition(x, y) {
 
 The difference of explicit functions is that it returns a data type stated from the constructor. From the example, the `concat` function will return a String and the `Addition` function will return an int when called and can be treated as a normal data type.
 <br>
-#####Lambda Functions
+##### Lambda Functions
 ```
 int Multiply(x, y) => x * y;
 ```
@@ -110,6 +110,6 @@ class ProChef extends ItalianChef {
 #### Polymorphism
 Polymorphism is an object-oriented programming concept where one thing has many forms. It can be two types - Runtime polymorphism and Compile time polymorphism. For example - A function has the same name but with a different behavior or class.
 
-##Activities
+## Activities
 1. Create a `Card` class that has String attributes defining their `suit` and `value`. If it's a face card it's value would be `'J'`,`'K'`,`'Q'`.
 2. A function that will print the created instance of the Card's attributes.
