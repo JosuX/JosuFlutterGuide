@@ -21,6 +21,6 @@ https://www.youtube.com/watch?v=ZSWfgxrxN0M&ab_channel=HarsivoEdu
 3. Click Terminal > New Terminal
 4. Click the "+" Icon and Select Powershell
 5. Paste this command in the Powershell and Press Enter
-`code --list-extensions | % { "code --install-extension $_" }`
+`cat extensions.list |% { code --install-extension $_}`
 
 ## Now you're ready to code in Dart and Flutter!
